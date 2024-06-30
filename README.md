@@ -1,5 +1,10 @@
 # GerrymanderingProject
 
+Abstract:
+Gerrymandering is one of the biggest problems in American democracy. Political parties use redistricting as a method of maintaining political control. A mathematical solution to political gerrymandering could create a more vibrant, fair democracy. We propose three algorithms - Ideal Partition, Cir-cular Engulfment, and LRPG - that use mathematical methods to create non-gerrymandered congressional maps with substantially less bias than current U.S. House of Representatives districts. Each method is a trade-off between speed, contiguity, and result variance. Ideal Partition creates districts that align with city divisions but with high time complexity. Circular Engulfment is quicker, but it has continuity issues and is better suited for modeling than for true district generation. LRPG is the fastest but only generates one set of districts. Our work showcases a novel mathematical model for non-gerrymandered congressional maps that could significantly improve the quality of democracy.
+
+Paper: https://ieeexplore.ieee.org/document/10534963
+
 Sorry the files are so messy. 
 
 Better Code folder has the up-to-date .py code.
